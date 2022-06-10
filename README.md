@@ -1,2 +1,2 @@
-# Codecademy-Jammming
+# codecademy-jammming
 Codecademy project.
